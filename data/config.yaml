@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Mary Jiang
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -12,7 +12,7 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/merryvj/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
@@ -23,7 +23,6 @@ description:
 page_title:
   "🪴 Quartz 3.3"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: GitHub
-    link: https://github.com/jackyzha0
+  - link_name: Website
+    link: https://www.maryjiang.me
+
