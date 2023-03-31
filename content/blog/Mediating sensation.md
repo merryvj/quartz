@@ -1,3 +1,7 @@
+---
+title: "Mediating sensation"
+---
+
 From Elise Co (Beyond Pixels)
 * "Computers are not there to create ambience; we want them to perform tasks and relay data, so they (usually) cannot be formless blobs with indecipherable pulsation."
 * "Much of what is so enticing about natural phenomena – the mystery, the unpredictability – is contrary to what we want from machines."

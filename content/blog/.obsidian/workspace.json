@@ -85,14 +85,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sensory spaces.md",
+                "file": "Mediating sensation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "297c334f4eabdc68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inspiration for graphics programming.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sensory spaces.md",
+                "file": "Inspiration for graphics programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sensory spaces.md",
+                "file": "Inspiration for graphics programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sensory spaces.md"
+                "file": "Inspiration for graphics programming.md"
               }
             }
           }
@@ -219,11 +231,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c3e50fe8f17ce76",
+  "active": "297c334f4eabdc68",
   "lastOpenFiles": [
-    "A rough list of ongoing interests.md",
     "Mediating sensation.md",
     "Inspiration for graphics programming.md",
+    "A rough list of ongoing interests.md",
     "Sensory spaces.md",
     "Day 2.md"
   ]

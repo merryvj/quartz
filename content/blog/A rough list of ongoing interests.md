@@ -1,3 +1,6 @@
+---
+title: "A rough list of ongoing interests"
+---
 
 Movement (dance, acrobatics, yoga-like practices) 
 
