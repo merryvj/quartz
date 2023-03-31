@@ -3,7 +3,6 @@
 title: "Sensory spaces"
 ---
 
-
 Can we make these virtual spaces and let them be a home? To travel between. Through the portal of the web, a simple way anyone can access.
 
 Between physical and virtual. Maybe there is a link? Thinking of virtual spaces that can provide that liminal, zen sensation. That isn't for visiting in a transactional, transient way such as an amusement park or game, but for finding comfort  and strength in like a temple?
