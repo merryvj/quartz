@@ -4,3 +4,4 @@ From Elise Co (Beyond Pixels)
 * "I think we should start to think of machines less as boxes of practicality and more as a generic control mechhanisms for mediating all kinds of interactions and stimuli."
 * "As machines become more ubiquitous and appropriate for less task-oriented situations, there will be a lot of room for inputs or outputs that are not as exact or efficient but appeal to a much broader sensory range or provide a more evocative experience"
 
+[[Inspiration for graphics programming | Graphics Programming]] as a tool for enhancing [[Sensory spaces]]
