@@ -10,11 +10,3 @@ Between physical and virtual. Maybe there is a link? Thinking of virtual spaces 
 But also spaces for sensory experiences...mediated with technology. It alters what we percieve. There's many works that play with our senses, such as the James Turrel work that starts in a dark room and appears to end with a "light at at the end of the tunnel". The perception of increasing brightness is only from our eyes adjusting to the darkness. 
 
 Except what is the intended effect? Is it just to create a brief moment of delight in the new qualia? Or a lasting impression that opens the body and mind to other ways of being?
-
-
-
-
-
-
-
-
