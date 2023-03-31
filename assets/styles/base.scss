@@ -45,7 +45,6 @@ h1, h2, h3, h4, h5, h6, thead {
   font-weight: revert;
   margin: 2rem 0 0;
   padding: 2rem auto 1rem;
-  font-size: 1.4rem;
 
   &:hover > .hanchor {
     color: var(--secondary);
@@ -66,6 +65,7 @@ p, ul, text, a, tr, td, li, ol, ul {
   font-weight: revert;
   margin: revert;
   padding: revert;
+  font-size: 1.4rem;
 }
 
 tbody, li, p {
