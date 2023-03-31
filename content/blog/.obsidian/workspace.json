@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inspiration for graphics programming.md",
+                "file": "Sensory spaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inspiration for graphics programming.md",
+                "file": "Sensory spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inspiration for graphics programming.md",
+                "file": "Sensory spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inspiration for graphics programming.md"
+                "file": "Sensory spaces.md"
               }
             }
           }
@@ -233,9 +233,9 @@
   },
   "active": "297c334f4eabdc68",
   "lastOpenFiles": [
-    "Mediating sensation.md",
-    "Inspiration for graphics programming.md",
     "A rough list of ongoing interests.md",
+    "Inspiration for graphics programming.md",
+    "Mediating sensation.md",
     "Sensory spaces.md",
     "Day 2.md"
   ]
