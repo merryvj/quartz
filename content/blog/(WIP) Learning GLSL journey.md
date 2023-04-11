@@ -13,6 +13,7 @@ Why learn GLSL? For me, it started with audiovisual performance. To be able to c
 - Simple animations
 
 Learning from video tutorials that make a simple project, and introduces the use of several techniques. Then using bookofshader sections to understand details.
+- https://www.youtube.com/watch?v=bigjgiavOM0&ab_channel=TheArtofCode
 
 Shaders I made at this point (code included):
 
