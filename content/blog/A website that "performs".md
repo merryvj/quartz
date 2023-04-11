@@ -1,3 +1,6 @@
+---
+title: "A website that "performs""
+---
 
 Music and dance are art forms of change over time: wavelengths, movements...
 But programming? Languages like Java and C know no such thing as time, at least not inherently.

@@ -1,4 +1,6 @@
-
+---
+title: "(WIP) Learning GLSL journey"
+---
 
 ## Choosing motivation
 

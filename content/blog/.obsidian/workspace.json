@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A website that \"performs\".md",
+                "file": "When computers disappear.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A website that \"performs\".md",
+                "file": "When computers disappear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A website that \"performs\".md",
+                "file": "When computers disappear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A website that \"performs\".md"
+                "file": "When computers disappear.md"
               }
             }
           }
@@ -245,14 +245,14 @@
   },
   "active": "a8b642923da7786a",
   "lastOpenFiles": [
-    "Inspiration for graphics programming.md",
-    "Shader examples.md",
-    "When computers disappear.md",
-    "Live coding.md",
     "Mediating sensation.md",
-    "A website that \"performs\".md",
-    "A rough list of ongoing interests.md",
+    "When computers disappear.md",
     "(WIP) Learning GLSL journey.md",
+    "A website that \"performs\".md",
+    "Inspiration for graphics programming.md",
+    "Live coding.md",
+    "Shader examples.md",
+    "A rough list of ongoing interests.md",
     "Sensory spaces.md",
     "Day 2.md"
   ]
