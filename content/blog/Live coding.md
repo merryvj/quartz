@@ -1,4 +1,8 @@
 
+---
+title: "Live coding"
+---
+
 https://livecodingbook.toplap.org/
 
 "The code allows the audience to view the choreographer and the performer’s mind, process and interpretations. Not just their bodies."

@@ -1,3 +1,4 @@
+
 ---
 title: "(WIP) Learning GLSL journey"
 ---
@@ -14,6 +15,10 @@ Why learn GLSL? For me, it started with audiovisual performance. To be able to c
 
 Learning from video tutorials that make a simple project, and introduces the use of several techniques. Then using bookofshader sections to understand details.
 - https://www.youtube.com/watch?v=bigjgiavOM0&ab_channel=TheArtofCode
+
+This SLAYYYYY overview
+https://www.youtube.com/watch?v=C-GYBUANXXc&ab_channel=ComputingforDesigners
+
 
 Shaders I made at this point (code included):
 
