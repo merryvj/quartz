@@ -66,9 +66,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dbbdadab361ab44c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inspiration for graphics programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f3752c608621f71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(WIP) Learning GLSL journey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0338f859a5fe8291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Live coding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8b642923da7786a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A website that \"performs\".md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -134,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sensory spaces.md",
+                "file": "A website that \"performs\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sensory spaces.md",
+                "file": "A website that \"performs\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sensory spaces.md"
+                "file": "A website that \"performs\".md"
               }
             }
           }
@@ -195,12 +243,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "297c334f4eabdc68",
+  "active": "a8b642923da7786a",
   "lastOpenFiles": [
-    "Mediating sensation.md",
-    "Sensory spaces.md",
-    "A rough list of ongoing interests.md",
     "Inspiration for graphics programming.md",
+    "Shader examples.md",
+    "When computers disappear.md",
+    "Live coding.md",
+    "Mediating sensation.md",
+    "A website that \"performs\".md",
+    "A rough list of ongoing interests.md",
+    "(WIP) Learning GLSL journey.md",
+    "Sensory spaces.md",
     "Day 2.md"
   ]
 }
