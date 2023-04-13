@@ -7,9 +7,10 @@
 <div class="singlePage">
     <!-- Begin actual content -->
     {{partial "header.html" .}}
+
+    <img id="banner" src="/icon.png" />
     <article>
         {{partial "toc.html" .}}
-        {{partial "page-list.html" .}}
         {{partial "textprocessing.html" . }}
         {{if $.Site.Data.config.enableRecentNotes}}
           {{partial "recent.html" . }}
