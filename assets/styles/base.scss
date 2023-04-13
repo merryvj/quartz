@@ -199,9 +199,9 @@ article {
     &.internal-link {
       text-decoration: none;
       background-color: transparentize(#BCDBDC, 0.85);
-      padding: 0 0.1em;
+      padding: 0 0.3em;
       margin: auto -0.1em;
-      border-radius: 3px;
+      border-radius: 4px;
 
       &.broken {
         opacity: 0.5;
