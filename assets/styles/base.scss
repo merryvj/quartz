@@ -41,7 +41,7 @@ body {
 
 h1, h2, h3, h4, h5, h6, thead {
   font-family: var(--font-header);
-  color: var(--dark);
+  color: var(--secondary);
   font-weight: revert;
   margin: 2rem 0 0;
   padding: 2rem auto 1rem;
@@ -378,8 +378,7 @@ header {
 
   #search-icon {
     background-color: var(--lightgray);
-    border-radius: 4px;
-    height: 2em;
+    border-radius: 999px;
     display: flex;
     align-items: center;
     cursor: pointer;
